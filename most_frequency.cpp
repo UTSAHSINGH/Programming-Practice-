@@ -24,7 +24,7 @@ int mostFreqEle(vector<int>& arr) {
 }
 
 int main() {
-    vector<int> arr = { 40, 50, 30, 40, 50, 30 };
+    vector<int> arr = { 40, 50, 30, 30 , 40, 50};
     cout << mostFreqEle(arr);
     return 0;
 }
