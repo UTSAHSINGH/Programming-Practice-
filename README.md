@@ -66,4 +66,8 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Database
+|  |
+| ------- |
+| [1193-monthly-transactions-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
