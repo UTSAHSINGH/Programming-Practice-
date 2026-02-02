@@ -44,6 +44,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0239-sliding-window-maximum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Sorting
@@ -82,4 +83,12 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0239-sliding-window-maximum) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
+## String
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
