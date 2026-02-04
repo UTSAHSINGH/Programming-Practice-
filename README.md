@@ -14,6 +14,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0509-fibonacci-number) |
+| [3640-trionic-array-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3640-trionic-array-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -37,6 +38,7 @@ All the Programs For my logic Building And Placement Preparations
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3637-trionic-array-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3640-trionic-array-ii) |
 ## Binary Search
 |  |
 | ------- |
