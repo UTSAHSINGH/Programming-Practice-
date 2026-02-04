@@ -8,6 +8,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0007-reverse-integer](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -25,6 +26,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -107,4 +109,5 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
