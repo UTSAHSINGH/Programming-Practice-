@@ -24,6 +24,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -102,4 +103,8 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
