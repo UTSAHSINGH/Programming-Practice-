@@ -9,6 +9,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0007-reverse-integer](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -29,6 +30,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -42,6 +44,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -60,6 +63,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -99,6 +103,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
+| [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -114,4 +119,8 @@ All the Programs For my logic Building And Placement Preparations
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0283-move-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
