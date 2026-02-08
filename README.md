@@ -129,4 +129,16 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
