@@ -31,6 +31,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
@@ -137,6 +138,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 ## Linked List
 |  |
