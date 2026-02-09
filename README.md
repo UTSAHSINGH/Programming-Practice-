@@ -123,6 +123,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0061-rotate-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0061-rotate-list) |
 | [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,6 +134,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0002-add-two-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0061-rotate-list) |
+| [0876-middle-of-the-linked-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
 | ------- |
