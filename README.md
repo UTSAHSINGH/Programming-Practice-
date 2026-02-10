@@ -32,6 +32,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
@@ -75,6 +76,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -138,6 +140,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0283-move-zeroes) |
