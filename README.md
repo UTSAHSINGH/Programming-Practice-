@@ -74,6 +74,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
@@ -136,6 +137,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0876-middle-of-the-linked-list) |
@@ -151,6 +153,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0002-add-two-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
 |  |
@@ -170,6 +173,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
@@ -184,4 +188,8 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3719-longest-balanced-subarray-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
