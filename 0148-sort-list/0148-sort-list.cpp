@@ -1,66 +1,63 @@
-							// 😉😉😉😉Please upvote if it helps 😉😉😉😉
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
     ListNode* sortList(ListNode* head) {
-        //If List Contain a Single or 0 Node
-        if(head == NULL || head ->next == NULL)
-            return head;
-        
-        
-        ListNode *temp = NULL;
-        ListNode *slow = head;
-        ListNode *fast = head;
-        
-        while(fast !=  NULL && fast -> next != NULL)
-        {
-            temp = slow;
-            slow = slow->next;          //slow increment by 1
-            fast = fast ->next ->next;  //fast incremented by 2
-            
-        }   
-        temp -> next = NULL;            //end of first left half
-        
-        ListNode* l1 = sortList(head);    //left half recursive call
-        ListNode* l2 = sortList(slow);    //right half recursive call
-        
-        return mergelist(l1, l2);         //mergelist Function call
-            
+       if(head==NULL || head->next==NULL){
+        return head;
+       } 
+       ListNode *rightHead =splitAtMid(head);
+       ListNode *left = sortList(head);
+       ListNode *right = sortList(rightHead);
+       return merge(left,right);
     }
-    
-    ListNode* mergelist(ListNode *l1, ListNode *l2)
-    {
-        ListNode *ptr = new ListNode(0);
-        ListNode *curr = ptr;
-        
-        while(l1 != NULL && l2 != NULL)
-        {
-            if(l1->val <= l2->val)
-            {
-                curr -> next = l1;
-                l1 = l1 -> next;
-            }
-            else
-            {
-                curr -> next = l2;
-                l2 = l2 -> next;
-            }
-        
-        curr = curr ->next;
-        
+    ListNode* splitAtMid(ListNode* head){
+        ListNode *prev = NULL ;
+        ListNode *fast =head , *slow = head; 
+        while(fast!=NULL && fast->next!=NULL){
+            prev = slow;
+            slow = slow->next;
+            fast=fast->next->next;
         }
-                
-        if(l1 != NULL)
-        {
-            curr -> next = l1;
-            l1 = l1->next;
+        if(prev!=NULL){
+            prev->next=NULL;
         }
-        
-        if(l2 != NULL)
-        {
-            curr -> next = l2;
-            l2 = l2 ->next;
-        }
-        
-        return ptr->next;
+        return slow;
     }
+    ListNode* merge(ListNode* left,ListNode* right) {
+        if(!left){
+            return right;
+        }
+        if(!right){
+            return left;
+        }
+        ListNode *head = NULL , *tail =NULL;
+        if(left->val<=right->val){
+            head=tail=left;
+            left=left->next;
+        }else{
+            head=tail=right;
+            right=right->next;
+        }
+        while(left && right){
+        if(left->val<=right->val){
+            tail->next=left;
+            left=left->next;
+        }else{
+            tail->next=right;
+            right=right->next;
+        }
+        tail=tail->next;
+        }
+        tail->next = (left)?left:right;
+        return head;
+    }  
 };
