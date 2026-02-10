@@ -48,6 +48,7 @@ All the Programs For my logic Building And Placement Preparations
 | [3634-minimum-removals-to-balance-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3640-trionic-array-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3719-longest-balanced-subarray-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -117,6 +119,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3719-longest-balanced-subarray-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -168,6 +171,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -176,4 +180,8 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
