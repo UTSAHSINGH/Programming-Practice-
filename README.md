@@ -123,6 +123,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
+| [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3719-longest-balanced-subarray-i) |
@@ -161,6 +162,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0876-middle-of-the-linked-list) |
 ## Tree
@@ -202,4 +204,12 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
