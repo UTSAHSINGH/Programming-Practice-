@@ -106,6 +106,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
 ## Database
 |  |
 | ------- |
@@ -128,6 +129,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
@@ -137,10 +139,12 @@ All the Programs For my logic Building And Placement Preparations
 | [0012-integer-to-roman](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0012-integer-to-roman) |
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
 ## Counting Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
+| [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
 | ------- |
