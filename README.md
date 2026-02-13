@@ -137,6 +137,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
@@ -201,6 +202,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0020-valid-parentheses) |
 | [0901-online-stock-span](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0901-online-stock-span) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Segment Tree
