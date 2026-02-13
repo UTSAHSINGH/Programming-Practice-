@@ -41,6 +41,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0735-asteroid-collision](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0735-asteroid-collision) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -203,6 +204,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0901-online-stock-span) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Segment Tree
@@ -231,4 +233,8 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
