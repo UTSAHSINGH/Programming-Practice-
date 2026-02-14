@@ -17,6 +17,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0509-fibonacci-number) |
+| [0799-champagne-tower](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0799-champagne-tower) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3640-trionic-array-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3640-trionic-array-ii) |
 ## Recursion
