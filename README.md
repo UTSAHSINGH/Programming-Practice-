@@ -120,6 +120,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -213,6 +214,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0901-online-stock-span) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -229,6 +231,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0225-implement-stack-using-queues) |
 | [0901-online-stock-span](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
