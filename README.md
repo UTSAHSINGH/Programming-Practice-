@@ -36,6 +36,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0056-merge-intervals](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0137-single-number-ii) |
@@ -107,6 +108,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Enumeration
 |  |
@@ -132,6 +134,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0012-integer-to-roman) |
+| [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
