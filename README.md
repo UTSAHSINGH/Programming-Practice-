@@ -193,16 +193,19 @@ All the Programs For my logic Building And Placement Preparations
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0110-balanced-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
@@ -221,6 +224,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0225-implement-stack-using-queues) |
 | [0735-asteroid-collision](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0901-online-stock-span) |
