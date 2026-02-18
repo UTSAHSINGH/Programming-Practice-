@@ -199,6 +199,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0110-balanced-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -209,6 +210,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0110-balanced-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -219,6 +221,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0110-balanced-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
@@ -284,5 +287,6 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0100-same-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
