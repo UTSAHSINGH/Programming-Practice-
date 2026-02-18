@@ -176,6 +176,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0190-reverse-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0693-binary-number-with-alternating-bits) |
 ## Linked List
 |  |
 | ------- |
