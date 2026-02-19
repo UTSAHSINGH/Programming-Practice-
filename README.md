@@ -62,6 +62,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -179,6 +180,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0136-single-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0693-binary-number-with-alternating-bits) |
@@ -203,6 +205,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0110-balanced-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -228,6 +231,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0110-balanced-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
