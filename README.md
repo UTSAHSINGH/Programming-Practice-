@@ -91,6 +91,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0761-special-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0761-special-binary-string) |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -155,6 +156,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
 | [0696-count-binary-substrings](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
+| [0761-special-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
 ## Counting Sort
@@ -246,6 +248,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3721-longest-balanced-subarray-ii) |
