@@ -154,6 +154,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0020-valid-parentheses](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
+| [0257-binary-tree-paths](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0257-binary-tree-paths) |
 | [0696-count-binary-substrings](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
 | [0761-special-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0761-special-binary-string) |
@@ -213,6 +214,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0145-binary-tree-postorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -229,6 +231,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0144-binary-tree-preorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -247,6 +250,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0145-binary-tree-postorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
@@ -309,6 +313,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0401-binary-watch) |
 ## Breadth-First Search
 |  |
