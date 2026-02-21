@@ -218,6 +218,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0687-longest-univalue-path) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -235,6 +236,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0687-longest-univalue-path) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -254,6 +256,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
+| [0687-longest-univalue-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0687-longest-univalue-path) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
