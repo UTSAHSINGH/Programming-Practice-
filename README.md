@@ -14,6 +14,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,6 +189,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Linked List
 |  |
 | ------- |
