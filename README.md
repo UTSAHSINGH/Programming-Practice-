@@ -154,6 +154,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0012-integer-to-roman](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0257-binary-tree-paths) |
 | [0696-count-binary-substrings](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0696-count-binary-substrings) |
@@ -280,6 +281,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
