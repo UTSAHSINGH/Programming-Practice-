@@ -143,6 +143,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3719-longest-balanced-subarray-i) |
@@ -223,6 +224,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0687-longest-univalue-path) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -242,6 +244,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0687-longest-univalue-path) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -263,6 +266,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0687-longest-univalue-path) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -337,4 +341,5 @@ All the Programs For my logic Building And Placement Preparations
 | [0112-path-sum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 <!---LeetCode Topics End-->
