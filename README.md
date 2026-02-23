@@ -143,6 +143,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
@@ -161,6 +162,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0696-count-binary-substrings](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0696-count-binary-substrings) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
 | [0761-special-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0761-special-binary-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
 ## Counting Sort
@@ -193,6 +195,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0693-binary-number-with-alternating-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Linked List
 |  |
 | ------- |
@@ -342,4 +345,12 @@ All the Programs For my logic Building And Placement Preparations
 | [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
