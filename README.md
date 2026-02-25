@@ -15,6 +15,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2939-maximum-xor-product](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2939-maximum-xor-product) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -79,6 +80,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2939-maximum-xor-product](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2939-maximum-xor-product) |
 ## Sliding Window
 |  |
 | ------- |
@@ -203,6 +205,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0868-binary-gap](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2939-maximum-xor-product](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2939-maximum-xor-product) |
 ## Linked List
 |  |
 | ------- |
