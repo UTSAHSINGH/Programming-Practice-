@@ -99,6 +99,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0761-special-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0761-special-binary-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -150,6 +151,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -238,6 +240,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0337-house-robber-iii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0687-longest-univalue-path) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
@@ -259,6 +262,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0337-house-robber-iii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0687-longest-univalue-path) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -283,6 +287,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0337-house-robber-iii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0687-longest-univalue-path) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Divide and Conquer
@@ -360,6 +365,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0112-path-sum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Rolling Hash
 |  |
