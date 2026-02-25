@@ -239,6 +239,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0257-binary-tree-paths](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0687-longest-univalue-path) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
@@ -261,6 +262,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0257-binary-tree-paths](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0687-longest-univalue-path) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
@@ -286,6 +288,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0257-binary-tree-paths](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0687-longest-univalue-path) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
@@ -364,6 +367,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0104-maximum-depth-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0226-invert-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
