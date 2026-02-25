@@ -12,6 +12,8 @@
 class Solution {
 public:
     vector<vector<int>> verticalTraversal(TreeNode* root) {
+        vector<vector<int>> res;
+        if(root==NULL) return res;
         map<int,map<int,multiset<int>>> nodes;
         queue<pair<TreeNode*,pair<int,int>>> todo;
         todo.push({root,{0,0}});
@@ -27,7 +29,7 @@ public:
             }if(node->right){
                 todo.push({node->right,{x+1,y+1}});
             }
-        }vector<vector<int>> res;
+        }
         for(auto p:nodes){
             vector<int> col;
             for(auto q:p.second){
