@@ -41,6 +41,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0036-valid-sudoku) |
 | [0056-merge-intervals](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0075-sort-colors) |
@@ -134,6 +135,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Enumeration
@@ -163,6 +165,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0013-roman-to-integer](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
