@@ -58,6 +58,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0912-sort-an-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -108,6 +109,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0912-sort-an-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -160,6 +162,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1122-relative-sort-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1122-relative-sort-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -190,6 +193,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0561-array-partition](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
