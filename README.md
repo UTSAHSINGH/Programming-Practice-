@@ -10,6 +10,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0007-reverse-integer](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
@@ -158,6 +159,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
@@ -177,6 +179,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0071-simplify-path) |
