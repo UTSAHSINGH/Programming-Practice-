@@ -43,6 +43,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0075-sort-colors) |
@@ -169,6 +170,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0030-substring-with-concatenation-of-all-words](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
