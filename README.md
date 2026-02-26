@@ -44,6 +44,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0036-valid-sudoku](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0075-sort-colors) |
@@ -104,6 +105,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
@@ -171,6 +173,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0036-valid-sudoku](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0146-lru-cache) |
@@ -194,6 +197,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0017-letter-combinations-of-a-phone-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0076-minimum-window-substring) |
