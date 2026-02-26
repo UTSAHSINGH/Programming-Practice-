@@ -55,6 +55,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0561-array-partition](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0561-array-partition) |
 | [0735-asteroid-collision](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
+| [0912-sort-an-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -104,6 +105,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0561-array-partition](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0561-array-partition) |
 | [0761-special-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -121,6 +123,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0239-sliding-window-maximum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0912-sort-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Matrix
 |  |
@@ -185,6 +188,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0274-h-index](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
@@ -311,6 +315,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0761-special-binary-string) |
+| [0912-sort-an-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3721-longest-balanced-subarray-ii) |
@@ -340,6 +345,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -393,4 +399,12 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
