@@ -49,6 +49,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0198-house-robber](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0283-move-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0735-asteroid-collision](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0735-asteroid-collision) |
@@ -97,6 +98,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0075-sort-colors](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0761-special-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0761-special-binary-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -178,6 +180,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0274-h-index) |
 | [1051-height-checker](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
