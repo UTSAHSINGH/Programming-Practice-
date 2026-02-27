@@ -17,6 +17,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0509-fibonacci-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2939-maximum-xor-product](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2939-maximum-xor-product) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +209,7 @@ All the Programs For my logic Building And Placement Preparations
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
 ## Counting Sort
 |  |
@@ -421,6 +423,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0752-open-the-lock](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0752-open-the-lock) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -437,4 +440,12 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0912-sort-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
