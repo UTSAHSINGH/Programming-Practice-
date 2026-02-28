@@ -16,6 +16,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0268-missing-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2939-maximum-xor-product](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2939-maximum-xor-product) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
@@ -250,6 +251,7 @@ All the Programs For my logic Building And Placement Preparations
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2939-maximum-xor-product](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2939-maximum-xor-product) |
 ## Linked List
 |  |
@@ -400,6 +402,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0067-add-binary](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Backtracking
 |  |
 | ------- |
