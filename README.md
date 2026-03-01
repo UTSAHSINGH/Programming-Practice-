@@ -92,6 +92,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0561-array-partition](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0561-array-partition) |
 | [1382-balance-a-binary-search-tree](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1382-balance-a-binary-search-tree) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2939-maximum-xor-product](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2939-maximum-xor-product) |
 ## Sliding Window
@@ -210,6 +211,7 @@ All the Programs For my logic Building And Placement Preparations
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
 ## Counting Sort
