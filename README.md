@@ -72,6 +72,7 @@ All the Programs For my logic Building And Placement Preparations
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3634-minimum-removals-to-balance-array) |
@@ -96,6 +97,7 @@ All the Programs For my logic Building And Placement Preparations
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2939-maximum-xor-product](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2939-maximum-xor-product) |
 ## Sliding Window
 |  |
@@ -126,6 +128,7 @@ All the Programs For my logic Building And Placement Preparations
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3634-minimum-removals-to-balance-array) |
 ## Prefix Sum
@@ -227,6 +230,7 @@ All the Programs For my logic Building And Placement Preparations
 | [1122-relative-sort-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
 ## Two Pointers
 |  |
