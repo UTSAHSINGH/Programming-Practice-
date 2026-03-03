@@ -35,6 +35,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0002-add-two-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0021-merge-two-sorted-lists) |
 | [0509-fibonacci-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0509-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Memoization
 |  |
 | ------- |
@@ -216,6 +217,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0761-special-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -411,6 +413,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0067-add-binary](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0735-asteroid-collision) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Backtracking
 |  |
