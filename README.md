@@ -70,6 +70,7 @@ All the Programs For my logic Building And Placement Preparations
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -153,6 +154,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Enumeration
 |  |
 | ------- |
