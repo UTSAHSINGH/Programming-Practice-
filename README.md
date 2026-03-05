@@ -222,6 +222,7 @@ All the Programs For my logic Building And Placement Preparations
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/3713-longest-balanced-substring-i) |
 ## Counting Sort
