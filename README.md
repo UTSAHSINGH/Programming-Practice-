@@ -22,6 +22,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0042-trapping-rain-water) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0198-house-robber) |
 | [0337-house-robber-iii](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0337-house-robber-iii) |
@@ -48,6 +49,7 @@ All the Programs For my logic Building And Placement Preparations
 | [0036-valid-sudoku](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0073-set-matrix-zeroes) |
@@ -246,6 +248,7 @@ All the Programs For my logic Building And Placement Preparations
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0148-sort-list) |
@@ -378,6 +381,7 @@ All the Programs For my logic Building And Placement Preparations
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -409,6 +413,7 @@ All the Programs For my logic Building And Placement Preparations
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0042-trapping-rain-water) |
 | [0901-online-stock-span](https://github.com/UTSAHSINGH/Programming-Practice-/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
